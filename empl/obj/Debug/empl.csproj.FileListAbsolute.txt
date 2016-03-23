@@ -1,0 +1,9 @@
+D:\c#\empl\empl\bin\Debug\empl.exe.config
+D:\c#\empl\empl\bin\Debug\empl.exe
+D:\c#\empl\empl\bin\Debug\empl.pdb
+D:\c#\empl\empl\obj\Debug\empl.csprojResolveAssemblyReference.cache
+D:\c#\empl\empl\obj\Debug\empl.Form1.resources
+D:\c#\empl\empl\obj\Debug\empl.Properties.Resources.resources
+D:\c#\empl\empl\obj\Debug\empl.csproj.GenerateResource.Cache
+D:\c#\empl\empl\obj\Debug\empl.exe
+D:\c#\empl\empl\obj\Debug\empl.pdb
